@@ -1,4 +1,3 @@
-este es una prueba, se cambio el nombre de repositorio original en GitHub a Clone V1
 <h1> Project: AirBnB clone - The console </h1>
 
 <p>
